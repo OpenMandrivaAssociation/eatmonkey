@@ -2,7 +2,7 @@
 
 Name:		eatmonkey
 Version:	0.1.4
-Release:	2
+Release:	3
 Summary:	Download manager for Xfce
 Group:		Graphical desktop/Xfce
 License:	GPLv3
