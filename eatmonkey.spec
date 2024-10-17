@@ -6,7 +6,7 @@ Release:	4
 Summary:	Download manager for Xfce
 Group:		Graphical desktop/Xfce
 License:	GPLv3
-URL:		http://goodies.xfce.org/projects/applications/eatmonkey
+URL:		https://goodies.xfce.org/projects/applications/eatmonkey
 Source0:	http://archive.xfce.org/src/apps/%{name}/%{url_ver}/%{name}-%{version}.tar.bz2 
 BuildRequires:	ruby-gnome2-devel
 BuildRequires:	intltool
